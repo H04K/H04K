@@ -1,7 +1,5 @@
 # Machine Learning Enthusiast 📟
 
-Here are some ideas to get you started:
-
 - 🔭 I'm Working on recommender System .
 - 🌱 I'm learning Machine Learning
 - 👯 I’m looking to collaborate on ...
