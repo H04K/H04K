@@ -2,7 +2,7 @@
 
 - 🔭 I'm Working on recommender System .
 - 🌱 I'm learning Machine Learning
-- 👯 I’m looking to collaborate on ...
+![H04K's GitHub stats](https://github-readme-stats.vercel.app/api?username=H04K&show_icons=true&theme=dark)
 
 
 
