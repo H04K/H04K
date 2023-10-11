@@ -16,6 +16,7 @@
 
 ## Projects
 
+🛠️ Please note that my repositories are currently undergoing restructuring, so stay tuned for exciting updates!
 👀 Feel free to check out some of my GitHub projects, where I showcase achievements and experiments related to NLP, computer vision, and more.
 
 ## Connect with Me
