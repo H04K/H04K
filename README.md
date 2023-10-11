@@ -22,4 +22,4 @@
 ## Connect with Me
 
 📫 I'm always open to collaborations and discussions on AI, NLP, or any data science-related challenges.
-📧 You can reach me via [LinkedIn]([Link_to_your_LinkedIn_profile](https://www.linkedin.com/in/théophile-hesters-8021481a7/)https://www.linkedin.com/in/théophile-hesters-8021481a7/) or by email at [t.hesters@protonmail.com]
+📧 You can reach me via [LinkedIn](https://www.linkedin.com/in/théophile-hesters-8021481a7/) or by email at [t.hesters@protonmail.com]
