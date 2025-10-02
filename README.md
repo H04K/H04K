@@ -1,6 +1,8 @@
-# Dipl0dopote
-academic weapon (no)
+# Dipl0pote
 
-reading and struggling to implement basically everything but going strong 
+Hi 👋
+My name is Théophile Hesters, AI Engineer expert in NLP.
+Currently Working at Davi The Humanizers in France.
+Focusing on Vision and LLM. 
 
-NLP, computer vision and other niche nerd stuff 
+You can find my work here and at [🤗](https://huggingface.co/Dipl0)
